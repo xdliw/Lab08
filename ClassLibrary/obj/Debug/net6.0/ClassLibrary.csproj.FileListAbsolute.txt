@@ -1,0 +1,12 @@
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\jonny\RiderProjects\Lab08\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
